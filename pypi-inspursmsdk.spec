@@ -4,7 +4,7 @@
 #
 Name     : pypi-inspursmsdk
 Version  : 1.2.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/24/7b/0228a7f4438858cf912de338c38fdb7940bc5c8bfbe937406af2068b0998/inspursmsdk-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/24/7b/0228a7f4438858cf912de338c38fdb7940bc5c8bfbe937406af2068b0998/inspursmsdk-1.2.0.tar.gz
 Summary  : inspur server manager api
